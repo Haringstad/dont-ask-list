@@ -1,2 +1,3 @@
 # dont-ask-list
-Don't ask list
+Don't ask list contains domains that are used to falsely pull you into leaving your data, by promising you nice gifts.
+Don't ask where I found them....
